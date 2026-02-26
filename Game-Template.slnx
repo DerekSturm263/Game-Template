@@ -1,0 +1,6 @@
+﻿<Solution>
+  <Project Path="Runtime.csproj" />
+  <Project Path="com.rlabrecque.steamworks.net.csproj" />
+  <Project Path="Editor.csproj" />
+  <Project Path="com.rlabrecque.steamworks.net.editor.csproj" />
+</Solution>
