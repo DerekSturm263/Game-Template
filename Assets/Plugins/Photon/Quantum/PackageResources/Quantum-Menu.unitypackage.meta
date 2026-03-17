@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d0bb1444b9231574e8dc3305f8a7946a
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 286874
+  packageName: Photon Quantum - Deterministic Game Engine
+  packageVersion: 3.0.9
+  assetPath: Assets/Photon/Quantum/PackageResources/Quantum-Menu.unitypackage
+  uploadId: 843104

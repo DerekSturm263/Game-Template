@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 957e874da6f980e47ba1b834471301ce
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 286874
+  packageName: Photon Quantum - Deterministic Game Engine
+  packageVersion: 3.0.9
+  assetPath: Assets/Photon/Quantum/Runtime/RuntimeAssets/LUT/FPSinCos.bytes
+  uploadId: 843104

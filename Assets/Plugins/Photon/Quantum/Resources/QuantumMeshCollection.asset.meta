@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 498d1eb87a123c1478b396be45490049
+labels:
+- QuantumDefaultGlobal
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 286874
+  packageName: Photon Quantum - Deterministic Game Engine
+  packageVersion: 3.0.9
+  assetPath: Assets/Photon/Quantum/Resources/QuantumMeshCollection.asset
+  uploadId: 843104

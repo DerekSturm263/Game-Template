@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5a2f6055139b44142954461627d344bc
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 286874
+  packageName: Photon Quantum - Deterministic Game Engine
+  packageVersion: 3.0.9
+  assetPath: Assets/Photon/PhotonRealtime/Code/PhotonPing.cs
+  uploadId: 843104

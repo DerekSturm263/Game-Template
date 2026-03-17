@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f2cb881c6a9772246bd6e3c119cf6f35
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 286874
+  packageName: Photon Quantum - Deterministic Game Engine
+  packageVersion: 3.0.9
+  assetPath: Assets/Photon/Quantum/Runtime/StartUI/QuantumStartUI.prefab
+  uploadId: 843104

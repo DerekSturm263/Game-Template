@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 48cb99e506cfefa41a3e6b41559fc8db
+labels:
+- QuantumCodeDoc
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 286874
+  packageName: Photon Quantum - Deterministic Game Engine
+  packageVersion: 3.0.9
+  assetPath: Assets/Photon/PhotonLibs/netstandard2.0/release/PhotonClient.xml
+  uploadId: 843104

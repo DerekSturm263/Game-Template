@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7b0ff9522c95eb54087c14108b4de793
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 286874
+  packageName: Photon Quantum - Deterministic Game Engine
+  packageVersion: 3.0.9
+  assetPath: Assets/Photon/Quantum/Runtime/QuantumGraphSeriesMarker.cs
+  uploadId: 843104

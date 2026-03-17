@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: df5ef6cd35545004798a18ae1b6ebbfa
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 286874
+  packageName: Photon Quantum - Deterministic Game Engine
+  packageVersion: 3.0.9
+  assetPath: Assets/Photon/Quantum/LICENSE.md
+  uploadId: 843104

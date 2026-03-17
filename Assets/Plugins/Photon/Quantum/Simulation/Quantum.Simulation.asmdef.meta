@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5d82202959c2f144ea95e134645b6833
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 286874
+  packageName: Photon Quantum - Deterministic Game Engine
+  packageVersion: 3.0.9
+  assetPath: Assets/Photon/Quantum/Simulation/Quantum.Simulation.asmdef
+  uploadId: 843104

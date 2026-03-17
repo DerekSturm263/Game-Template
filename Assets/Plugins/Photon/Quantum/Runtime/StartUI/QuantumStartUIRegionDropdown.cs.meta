@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7a1318b927159604da6f60ad09a29e97
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 286874
+  packageName: Photon Quantum - Deterministic Game Engine
+  packageVersion: 3.0.9
+  assetPath: Assets/Photon/Quantum/Runtime/StartUI/QuantumStartUIRegionDropdown.cs
+  uploadId: 843104

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f723a494700aee146aa96072604b48c0
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 286874
+  packageName: Photon Quantum - Deterministic Game Engine
+  packageVersion: 3.0.9
+  assetPath: Assets/Photon/Quantum/Runtime/GraphProfilers/QuantumGraphShaderSeriesValue.shader
+  uploadId: 843104

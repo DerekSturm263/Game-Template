@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3efd9b4dd1595d7488b943ff30165085
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 286874
+  packageName: Photon Quantum - Deterministic Game Engine
+  packageVersion: 3.0.9
+  assetPath: Assets/Photon/Quantum/Runtime/GraphProfilers/QuantumGraphPrefabPingProfiler.prefab
+  uploadId: 843104

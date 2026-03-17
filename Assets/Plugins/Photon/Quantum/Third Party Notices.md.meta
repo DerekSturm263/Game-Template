@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ec2ee63edc7fe264dbf2eb2c42138860
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 286874
+  packageName: Photon Quantum - Deterministic Game Engine
+  packageVersion: 3.0.9
+  assetPath: Assets/Photon/Quantum/Third Party Notices.md
+  uploadId: 843104

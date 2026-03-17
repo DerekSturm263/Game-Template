@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f8179bbf7692bf746935cfc9d2161fb6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 286874
+  packageName: Photon Quantum - Deterministic Game Engine
+  packageVersion: 3.0.9
+  assetPath: Assets/Photon/Quantum/Runtime/StartUI/QuantumStartUI.controller
+  uploadId: 843104

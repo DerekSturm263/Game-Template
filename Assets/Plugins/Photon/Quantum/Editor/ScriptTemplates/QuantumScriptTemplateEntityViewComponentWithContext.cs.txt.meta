@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: acc3b5856cf4cd845ab823a3b9bb168d
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 286874
+  packageName: Photon Quantum - Deterministic Game Engine
+  packageVersion: 3.0.9
+  assetPath: Assets/Photon/Quantum/Editor/ScriptTemplates/QuantumScriptTemplateEntityViewComponentWithContext.cs.txt
+  uploadId: 843104

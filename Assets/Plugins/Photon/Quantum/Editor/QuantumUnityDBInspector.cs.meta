@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: a19f90209c4244e3ac07e2f2c8dfb92b
+timeCreated: 1684316083
+AssetOrigin:
+  serializedVersion: 1
+  productId: 286874
+  packageName: Photon Quantum - Deterministic Game Engine
+  packageVersion: 3.0.9
+  assetPath: Assets/Photon/Quantum/Editor/QuantumUnityDBInspector.cs
+  uploadId: 843104

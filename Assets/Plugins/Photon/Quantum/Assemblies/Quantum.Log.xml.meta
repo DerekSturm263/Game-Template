@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4c7ef5f5ec215254693575193d088d9e
+labels:
+- QuantumCodeDoc
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 286874
+  packageName: Photon Quantum - Deterministic Game Engine
+  packageVersion: 3.0.9
+  assetPath: Assets/Photon/Quantum/Assemblies/Quantum.Log.xml
+  uploadId: 843104

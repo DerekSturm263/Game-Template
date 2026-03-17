@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: af1ed011e3558e74b98a67eaac497930
+timeCreated: 1515519700
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 286874
+  packageName: Photon Quantum - Deterministic Game Engine
+  packageVersion: 3.0.9
+  assetPath: Assets/Photon/Quantum/Runtime/RuntimeAssets/LUT/FPAtan.bytes
+  uploadId: 843104

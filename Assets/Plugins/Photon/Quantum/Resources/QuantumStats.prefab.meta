@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9e5addbaa78b7264889bf147e593db91
+timeCreated: 1517992244
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 286874
+  packageName: Photon Quantum - Deterministic Game Engine
+  packageVersion: 3.0.9
+  assetPath: Assets/Photon/Quantum/Resources/QuantumStats.prefab
+  uploadId: 843104

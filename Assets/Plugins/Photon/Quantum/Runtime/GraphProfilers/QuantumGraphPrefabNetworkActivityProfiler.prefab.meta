@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 11a6dd7e02ce19146b8cadfccf40da0a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 286874
+  packageName: Photon Quantum - Deterministic Game Engine
+  packageVersion: 3.0.9
+  assetPath: Assets/Photon/Quantum/Runtime/GraphProfilers/QuantumGraphPrefabNetworkActivityProfiler.prefab
+  uploadId: 843104

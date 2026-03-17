@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 93bbe86376f4f444ebedbfbf7fc7668e
+timeCreated: 1535044007
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 286874
+  packageName: Photon Quantum - Deterministic Game Engine
+  packageVersion: 3.0.9
+  assetPath: Assets/Photon/Quantum/Runtime/QuantumRunnerLocalReplay.cs
+  uploadId: 843104

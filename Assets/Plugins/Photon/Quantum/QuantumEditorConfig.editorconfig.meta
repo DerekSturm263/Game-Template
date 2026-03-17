@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 75e0e9147a27e104793ee4599d92216a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: bac352ef18ed3684aba1ddc6dd2588f2, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 286874
+  packageName: Photon Quantum - Deterministic Game Engine
+  packageVersion: 3.0.9
+  assetPath: Assets/Photon/Quantum/QuantumEditorConfig.editorconfig
+  uploadId: 843104

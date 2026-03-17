@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: ec10e1ee51812774aa1a9b2a0c1dd596
+labels:
+- QuantumCodeDoc
+AssetOrigin:
+  serializedVersion: 1
+  productId: 286874
+  packageName: Photon Quantum - Deterministic Game Engine
+  packageVersion: 3.0.9
+  assetPath: Assets/Photon/Quantum/Editor/EditorResources/Quantum.Unity.Editor.CodeGen.xml
+  uploadId: 843104

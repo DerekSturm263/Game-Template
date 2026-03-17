@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b65ddbb644b20e14f96a319458483c8b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 286874
+  packageName: Photon Quantum - Deterministic Game Engine
+  packageVersion: 3.0.9
+  assetPath: Assets/Photon/Quantum/Runtime/GraphProfilers/QuantumGraphShaderSeriesMarker.shader
+  uploadId: 843104

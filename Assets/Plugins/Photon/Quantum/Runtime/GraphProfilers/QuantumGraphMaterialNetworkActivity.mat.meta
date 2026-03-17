@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 362fd7162ffc7f247adeddc6aefbec08
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 286874
+  packageName: Photon Quantum - Deterministic Game Engine
+  packageVersion: 3.0.9
+  assetPath: Assets/Photon/Quantum/Runtime/GraphProfilers/QuantumGraphMaterialNetworkActivity.mat
+  uploadId: 843104

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 46baf9431b7dc7e45932f7fba6c3aa0d
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 286874
+  packageName: Photon Quantum - Deterministic Game Engine
+  packageVersion: 3.0.9
+  assetPath: Assets/Photon/Quantum/PackageResources/Quantum-DemoInput.unitypackage
+  uploadId: 843104

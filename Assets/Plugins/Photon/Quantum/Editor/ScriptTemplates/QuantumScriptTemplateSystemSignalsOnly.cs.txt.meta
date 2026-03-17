@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bfc124cb1438a874fb81bfb09a1d7560
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 286874
+  packageName: Photon Quantum - Deterministic Game Engine
+  packageVersion: 3.0.9
+  assetPath: Assets/Photon/Quantum/Editor/ScriptTemplates/QuantumScriptTemplateSystemSignalsOnly.cs.txt
+  uploadId: 843104

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9f2bfbb837b805248894d2525dae996c
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 286874
+  packageName: Photon Quantum - Deterministic Game Engine
+  packageVersion: 3.0.9
+  assetPath: Assets/Photon/Quantum/Editor/ScriptTemplates/QuantumScriptTemplateSystemFilter.cs.txt
+  uploadId: 843104

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8b96e636b9a37a441837d8527e33ae5f
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 286874
+  packageName: Photon Quantum - Deterministic Game Engine
+  packageVersion: 3.0.9
+  assetPath: Assets/Photon/Quantum/Editor/CodeGen/QuantumCodeGenQtn.Version.txt
+  uploadId: 843104

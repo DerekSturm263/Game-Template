@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: a2da1f824ba94fc4585befb1d5f7a0f7
+timeCreated: 1516010153
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 286874
+  packageName: Photon Quantum - Deterministic Game Engine
+  packageVersion: 3.0.9
+  assetPath: Assets/Photon/Quantum/Runtime/QuantumStaticEdgeCollider2D.cs
+  uploadId: 843104

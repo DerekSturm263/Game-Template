@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6f99513f516ff6240ba18e8a35408da8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 286874
+  packageName: Photon Quantum - Deterministic Game Engine
+  packageVersion: 3.0.9
+  assetPath: Assets/Photon/Quantum/Runtime/GraphProfilers/QuantumGraphPrefabDeltaTimeProfiler.prefab
+  uploadId: 843104
