@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 591837d5d2783b14e92ede64a5a737ae
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248141
+  packageName: Project Browser Pro
+  packageVersion: 1.7
+  assetPath: Assets/Assets/Unity-Project-Browser-Pro/Project Browser Pro/Editor/ProjectBrowserProEditor.cs
+  uploadId: 719618

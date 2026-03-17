@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 176f80b859963c2489c4542504f7d2fa
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135719
+  packageName: Quick Code
+  packageVersion: 2.0.3
+  assetPath: Assets/RenownedGames/QuickCode/Core/Editor/EditorResources/ClassWrapper/DefaultTemplate.txt
+  uploadId: 548431

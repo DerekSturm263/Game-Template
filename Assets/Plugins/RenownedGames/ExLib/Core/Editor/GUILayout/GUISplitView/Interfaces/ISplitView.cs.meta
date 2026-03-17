@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3fe90fb6bd4df2b4da07bec2e429b364
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135719
+  packageName: Quick Code
+  packageVersion: 2.0.3
+  assetPath: Assets/RenownedGames/ExLib/Core/Editor/GUILayout/GUISplitView/Interfaces/ISplitView.cs
+  uploadId: 548431

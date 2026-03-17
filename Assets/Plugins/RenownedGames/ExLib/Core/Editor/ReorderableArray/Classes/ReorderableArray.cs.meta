@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 74bfdbe9b19c17e4ab5f82495aac9f26
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135719
+  packageName: Quick Code
+  packageVersion: 2.0.3
+  assetPath: Assets/RenownedGames/ExLib/Core/Editor/ReorderableArray/Classes/ReorderableArray.cs
+  uploadId: 548431

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 72e8e2488626b0543a13b564006a26fc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 238209
+  packageName: C# Generator
+  packageVersion: 1.3
+  assetPath: Assets/Packages/CSharpGenerator/Resources/Redcode/CSharpGenerator/Settings.asset
+  uploadId: 569719

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cb024aa0ac07f1f4382171622dca3d53
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 238209
+  packageName: C# Generator
+  packageVersion: 1.3
+  assetPath: Assets/Packages/CSharpGenerator/Docs/README_EN.md
+  uploadId: 569719

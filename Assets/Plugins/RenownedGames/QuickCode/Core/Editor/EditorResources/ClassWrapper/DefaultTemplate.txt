@@ -1,0 +1,9 @@
+{0}
+
+public static class DefaultTemplate
+{{
+	public static void Main()
+	{{
+		{1};
+	}}
+}}

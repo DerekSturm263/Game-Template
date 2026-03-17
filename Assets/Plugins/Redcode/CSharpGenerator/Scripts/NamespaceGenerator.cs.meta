@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b36cb20a09dce4d31afc164d841d337c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 238209
+  packageName: C# Generator
+  packageVersion: 1.3
+  assetPath: Assets/Packages/CSharpGenerator/Scripts/NamespaceGenerator.cs
+  uploadId: 569719

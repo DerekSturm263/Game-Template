@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7753bf5c894d66a4cb39908dd8318f2c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135719
+  packageName: Quick Code
+  packageVersion: 2.0.3
+  assetPath: Assets/RenownedGames/ExLib/Core/Editor/ScreenUtility/Classes/ScreenUtility.cs
+  uploadId: 548431

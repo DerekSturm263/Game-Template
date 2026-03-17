@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 71bf1df3ca4ce4c499648eb20840143c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135719
+  packageName: Quick Code
+  packageVersion: 2.0.3
+  assetPath: Assets/RenownedGames/ExLib/Core/Runtime/CoroutineObject/Interfaces/ICoroutineObjectBase.cs
+  uploadId: 548431

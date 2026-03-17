@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a461af7f5289cb44abc45c7d3b46a15c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135719
+  packageName: Quick Code
+  packageVersion: 2.0.3
+  assetPath: Assets/RenownedGames/ExLib/Core/Editor/AssemblyInfo.cs
+  uploadId: 548431

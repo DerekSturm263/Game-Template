@@ -1,4 +1,32 @@
 ﻿<Solution>
+  <Project Path="TableForge.Editor.csproj" />
+  <Project Path="NaughtyAttributes.Core.csproj" />
+  <Project Path="FastScriptReload.Editor.csproj" />
+  <Project Path="SREditor-Editor.csproj" />
+  <Project Path="BetterHierarchy.csproj" />
+  <Project Path="Extensions.csproj" />
+  <Project Path="NaughtyAttributes.Editor.csproj" />
+  <Project Path="AYellowpaper.SerializedCollections.csproj" />
   <Project Path="com.rlabrecque.steamworks.net.csproj" />
+  <Project Path="CSharpGenerator.csproj" />
+  <Project Path="NaughtyAttributes.Test.csproj" />
+  <Project Path="Assembly-CSharp-Editor-firstpass.csproj" />
+  <Project Path="AYellowpaper.SerializedCollections.Editor.csproj" />
+  <Project Path="ExLibEditor.csproj" />
+  <Project Path="ExportProjectToZip.csproj" />
+  <Project Path="Unity.PlayerPrefsEditor.Editor.csproj" />
+  <Project Path="ExtensionsEditor.csproj" />
+  <Project Path="Assembly-CSharp-firstpass.csproj" />
+  <Project Path="ASoliman.Utils.ClipboardPlus.csproj" />
+  <Project Path="FastPlay.csproj" />
+  <Project Path="FastScriptReload.Runtime.csproj" />
+  <Project Path="SREditor.csproj" />
   <Project Path="com.rlabrecque.steamworks.net.editor.csproj" />
+  <Project Path="TableForge.Runtime.csproj" />
+  <Project Path="AssemblyDefinition.csproj" />
+  <Project Path="ExLib.csproj" />
+  <Project Path="QuickCodeEditor.csproj" />
+  <Project Path="Unity.PlayerPrefsEditor.EditorResources.csproj" />
+  <Project Path="UnityPlayModeSaverEditor.csproj" />
+  <Project Path="UnityPlayModeSaver.csproj" />
 </Solution>

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1372a19b524735d4dbb9bd385c0b0cfb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135719
+  packageName: Quick Code
+  packageVersion: 2.0.3
+  assetPath: Assets/RenownedGames/ExLib/Core/Editor/UIElements/VisualElements/ListElement/Classes/ListItem.cs
+  uploadId: 548431

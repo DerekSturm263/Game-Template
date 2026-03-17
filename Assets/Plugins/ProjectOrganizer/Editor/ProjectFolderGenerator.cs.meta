@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: ab0e6db6ba986ff4ea0a9436bd6c4e2a
+AssetOrigin:
+  serializedVersion: 1
+  productId: 322966
+  packageName: Project Organizer
+  packageVersion: 2.2.1
+  assetPath: Assets/ProjectOrganizer/Editor/ProjectFolderGenerator.cs
+  uploadId: 867208

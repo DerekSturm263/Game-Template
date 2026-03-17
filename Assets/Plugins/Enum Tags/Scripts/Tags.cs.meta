@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a50d408b4931082469a8c8ef6b915b44
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 247275
+  packageName: Enum Tags - Autocomplete Tags
+  packageVersion: 1.1
+  assetPath: Assets/Enum Tags/Scripts/Tags.cs
+  uploadId: 579091

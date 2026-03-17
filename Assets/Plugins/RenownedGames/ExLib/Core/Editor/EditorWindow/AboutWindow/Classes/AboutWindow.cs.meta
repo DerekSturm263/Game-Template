@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 04ce0f65968328a4aa953e8d245cae86
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135719
+  packageName: Quick Code
+  packageVersion: 2.0.3
+  assetPath: Assets/RenownedGames/ExLib/Core/Editor/EditorWindow/AboutWindow/Classes/AboutWindow.cs
+  uploadId: 548431

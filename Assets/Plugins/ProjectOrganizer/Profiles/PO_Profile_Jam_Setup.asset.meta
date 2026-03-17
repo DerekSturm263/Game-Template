@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0349555f829678d43b86dec6eb317681
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 322966
+  packageName: Project Organizer
+  packageVersion: 2.2.1
+  assetPath: Assets/ProjectOrganizer/Profiles/PO_Profile_Jam_Setup.asset
+  uploadId: 867208

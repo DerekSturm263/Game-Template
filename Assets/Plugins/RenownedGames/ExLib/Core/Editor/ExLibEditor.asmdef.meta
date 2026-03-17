@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 87eaf3fd1840b5c42a5f00c0a45ccaa1
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135719
+  packageName: Quick Code
+  packageVersion: 2.0.3
+  assetPath: Assets/RenownedGames/ExLib/Core/Editor/ExLibEditor.asmdef
+  uploadId: 548431

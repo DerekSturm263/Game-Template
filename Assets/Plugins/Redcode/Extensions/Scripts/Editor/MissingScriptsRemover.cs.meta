@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: baf71069a799ec344b67fc06f9b21182
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 214756
+  packageName: Extensions
+  packageVersion: 1.3.1
+  assetPath: Assets/Redcode/Extensions/Scripts/Editor/MissingScriptsRemover.cs
+  uploadId: 538739

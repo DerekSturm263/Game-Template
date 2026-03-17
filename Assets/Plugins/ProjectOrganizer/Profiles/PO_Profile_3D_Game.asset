@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdb183a860624dd488352462b51cbe21, type: 3}
+  m_Name: PO_Profile_3D_Game
+  m_EditorClassIdentifier: Assembly-CSharp-Editor::ProjectOrganizerTool.ProjectOrganizerProfile
+  ExtensionMappings:
+  - Extension: .unity
+    TargetFolder: Assets/Scenes
+  - Extension: .prefab
+    TargetFolder: Assets/Prefabs
+  - Extension: .cs
+    TargetFolder: Assets/Scripts
+  - Extension: .asset
+    TargetFolder: Assets/Data
+  - Extension: .fbx
+    TargetFolder: Assets/Art/Models
+  - Extension: .blend
+    TargetFolder: Assets/Art/Models
+  - Extension: .png
+    TargetFolder: Assets/Art/Textures
+  - Extension: .jpg
+    TargetFolder: Assets/Art/Textures
+  - Extension: .jpeg
+    TargetFolder: Assets/Art/Textures
+  - Extension: .tga
+    TargetFolder: Assets/Art/Textures
+  - Extension: .exr
+    TargetFolder: Assets/Art/Textures
+  - Extension: .hdr
+    TargetFolder: Assets/Art/Textures
+  - Extension: .mat
+    TargetFolder: Assets/Art/Materials
+  - Extension: .shader
+    TargetFolder: Assets/Art/Shaders
+  - Extension: .shadergraph
+    TargetFolder: Assets/Art/Shaders
+  - Extension: .anim
+    TargetFolder: Assets/Animations
+  - Extension: .controller
+    TargetFolder: Assets/Animations
+  - Extension: .overridecontroller
+    TargetFolder: Assets/Animations
+  - Extension: .vfx
+    TargetFolder: Assets/VFX
+  - Extension: .rendertexture
+    TargetFolder: Assets/Art/Lighting
+  - Extension: .wav
+    TargetFolder: Assets/Audio/SFX
+  - Extension: .mp3
+    TargetFolder: Assets/Audio/Music
+  - Extension: .ogg
+    TargetFolder: Assets/Audio/Music
+  IncludeFolders:
+  - Assets
+  ExcludeFolders:
+  - Assets/Plugins
+  - Assets/ThirdParty
+  ExtensionsToScan: .unity,.prefab,.cs,.asset,.fbx,.blend,.png,.jpg,.jpeg,.tga,.exr,.hdr,.mat,.shader,.shadergraph,.anim,.controller,.overridecontroller,.wav,.mp3,.ogg,.rendertexture,.vfx
+  TemplateFolders:
+  - Scenes
+  - Prefabs
+  - Scripts
+  - Art
+  - Art/Models
+  - Art/Textures
+  - Art/Materials
+  - Art/Shaders
+  - Art/Lighting
+  - Animations
+  - VFX
+  - Audio
+  - Audio/SFX
+  - Audio/Music
+  - UI
+  - Data
+  - Resources

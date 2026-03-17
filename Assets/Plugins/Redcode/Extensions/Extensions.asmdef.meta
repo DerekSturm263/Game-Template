@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b52c6daf0f9f3974fb04e400a06c9369
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 214756
+  packageName: Extensions
+  packageVersion: 1.3.1
+  assetPath: Assets/Redcode/Extensions/Extensions.asmdef
+  uploadId: 538739

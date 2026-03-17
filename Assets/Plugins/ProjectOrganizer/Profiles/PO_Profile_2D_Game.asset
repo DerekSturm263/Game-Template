@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdb183a860624dd488352462b51cbe21, type: 3}
+  m_Name: PO_Profile_2D_Game
+  m_EditorClassIdentifier: Assembly-CSharp-Editor::ProjectOrganizerTool.ProjectOrganizerProfile
+  ExtensionMappings:
+  - Extension: .unity
+    TargetFolder: Assets/Scenes
+  - Extension: .prefab
+    TargetFolder: Assets/Prefabs
+  - Extension: .cs
+    TargetFolder: Assets/Scripts
+  - Extension: .asset
+    TargetFolder: Assets/Data
+  - Extension: .png
+    TargetFolder: Assets/Art/Sprites
+  - Extension: .jpg
+    TargetFolder: Assets/Art/Sprites
+  - Extension: .jpeg
+    TargetFolder: Assets/Art/Sprites
+  - Extension: .psd
+    TargetFolder: Assets/Art/Sprites
+  - Extension: .mat
+    TargetFolder: Assets/Art/Materials
+  - Extension: .shader
+    TargetFolder: Assets/Art/Shaders
+  - Extension: .shadergraph
+    TargetFolder: Assets/Art/Shaders
+  - Extension: .anim
+    TargetFolder: Assets/Animations
+  - Extension: .controller
+    TargetFolder: Assets/Animations
+  - Extension: .overridecontroller
+    TargetFolder: Assets/Animations
+  - Extension: .wav
+    TargetFolder: Assets/Audio/SFX
+  - Extension: .mp3
+    TargetFolder: Assets/Audio/Music
+  - Extension: .ogg
+    TargetFolder: Assets/Audio/Music
+  - Extension: .ttf
+    TargetFolder: Assets/UI/Fonts
+  - Extension: .otf
+    TargetFolder: Assets/UI/Fonts
+  IncludeFolders:
+  - Assets
+  ExcludeFolders:
+  - Assets/Plugins
+  - Assets/ThirdParty
+  ExtensionsToScan: .unity,.prefab,.cs,.asset,.png,.psd,.jpg,.jpeg,.anim,.controller,.overridecontroller,.mat,.shader,.shadergraph,.wav,.mp3,.ogg,.ttf,.otf
+  TemplateFolders:
+  - Scenes
+  - Prefabs
+  - Scripts
+  - Art
+  - Art/Sprites
+  - Art/Tilesets
+  - Art/Atlases
+  - Art/Materials
+  - Art/Shaders
+  - Animations
+  - Audio
+  - Audio/SFX
+  - Audio/Music
+  - UI
+  - UI/Fonts
+  - Data
+  - Resources

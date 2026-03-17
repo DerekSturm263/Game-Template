@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3b9e9c664d037f94babc7f523e721668
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248141
+  packageName: Project Browser Pro
+  packageVersion: 1.7
+  assetPath: Assets/Assets/Unity-Project-Browser-Pro/NetworkObjetcFinder/Editor/NetworkObjectFinderEditor.cs
+  uploadId: 719618

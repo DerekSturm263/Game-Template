@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bc4be8e4d9553df4e84bfd1c7ee3f411
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135719
+  packageName: Quick Code
+  packageVersion: 2.0.3
+  assetPath: Assets/RenownedGames/QuickCode/Core/Editor/MenuItems/DocsMenu.cs
+  uploadId: 548431

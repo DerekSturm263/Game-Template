@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: acadb59a5810c9549bc64521bcbd1756
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135719
+  packageName: Quick Code
+  packageVersion: 2.0.3
+  assetPath: Assets/RenownedGames/ExLib/Core/Editor/Utilities/Classes/SerializedPropertyUtility.cs
+  uploadId: 548431

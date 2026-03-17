@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b88757bdba1de4042b4dbaa63312148f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135719
+  packageName: Quick Code
+  packageVersion: 2.0.3
+  assetPath: Assets/RenownedGames/QuickCode/Core/Editor/QuickFunc/Classes/QuickFunc.cs
+  uploadId: 548431

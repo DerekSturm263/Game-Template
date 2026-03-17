@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ce917eb09d94da044b3b9dec67d28223
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135719
+  packageName: Quick Code
+  packageVersion: 2.0.3
+  assetPath: Assets/RenownedGames/QuickCode/Core/Editor/QuickCodeEditor.asmdef
+  uploadId: 548431

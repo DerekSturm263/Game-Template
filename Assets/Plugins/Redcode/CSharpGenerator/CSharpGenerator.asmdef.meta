@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: feb8e19935bb4f147b2c6acd6ee741e8
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 238209
+  packageName: C# Generator
+  packageVersion: 1.3
+  assetPath: Assets/Packages/CSharpGenerator/CSharpGenerator.asmdef
+  uploadId: 569719
